@@ -1,0 +1,12 @@
+version: 0.1
+
+phases:
+  pre_build:
+    commands:
+    echo "con chim non"
+      
+  build:
+    commands:
+
+  post_build:
+    commands:
